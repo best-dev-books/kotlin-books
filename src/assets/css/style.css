@@ -220,6 +220,19 @@ h1, h2, h3 {
 	margin: 0 0 0.75rem;
 }
 
+.best-for {
+	font-size: 0.9rem;
+	background: var(--color-bg);
+	border-left: 3px solid var(--color-accent);
+	padding: 0.5rem 0.75rem;
+	margin: 0 0 0.75rem;
+	border-radius: 0 6px 6px 0;
+}
+
+.best-for strong {
+	color: var(--color-accent-strong);
+}
+
 /* ---------------------------------------------------------------
    Badges & tags
 --------------------------------------------------------------- */

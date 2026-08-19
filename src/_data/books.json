@@ -25,7 +25,8 @@
         "url": "https://www.manning.com/books/kotlin-in-action-second-edition"
       }
     ],
-    "coverImage": "/assets/covers/kotlin-in-action.jpg"
+    "coverImage": "/assets/covers/kotlin-in-action.jpg",
+    "bestFor": "Java developers who want the definitive, JetBrains-authored reference on idiomatic Kotlin, including coroutines."
   },
   {
     "slug": "atomic-kotlin",
@@ -49,7 +50,8 @@
         "url": "https://www.amazon.com/Atomic-Kotlin-Bruce-Eckel/dp/0981872557"
       }
     ],
-    "coverImage": "/assets/covers/atomic-kotlin.jpg"
+    "coverImage": "/assets/covers/atomic-kotlin.jpg",
+    "bestFor": "First-time Kotlin learners who want short, exercise-driven lessons rather than a dense reference."
   },
   {
     "slug": "kotlin-coroutines-deep-dive",
@@ -73,7 +75,8 @@
         "url": "https://www.amazon.com/Kotlin-Coroutines-Deep-Marcin-Moskala/dp/8396395837"
       }
     ],
-    "coverImage": "/assets/covers/kotlin-coroutines-deep-dive.jpg"
+    "coverImage": "/assets/covers/kotlin-coroutines-deep-dive.jpg",
+    "bestFor": "Kotlin developers who already know the basics and need to actually understand structured concurrency, not just copy-paste coroutine code."
   },
   {
     "slug": "effective-kotlin",
@@ -96,7 +99,8 @@
         "url": "https://www.amazon.com/Effective-Kotlin-Best-Practices-Developers/dp/B0CHCWPPNP"
       }
     ],
-    "coverImage": "/assets/covers/effective-kotlin.jpg"
+    "coverImage": "/assets/covers/effective-kotlin.jpg",
+    "bestFor": "Teams and intermediate developers who want a concrete style guide for writing idiomatic, safe Kotlin."
   },
   {
     "slug": "kotlin-programming-big-nerd-ranch-guide",
@@ -122,7 +126,8 @@
         "url": "https://www.amazon.com/Kotlin-Programming-Ranch-Guide-Guides/dp/0136891055"
       }
     ],
-    "coverImage": "/assets/covers/kotlin-programming-big-nerd-ranch-guide.jpg"
+    "coverImage": "/assets/covers/kotlin-programming-big-nerd-ranch-guide.jpg",
+    "bestFor": "Beginners who want a classroom-tested, hands-on introduction to Kotlin syntax."
   },
   {
     "slug": "head-first-kotlin",
@@ -146,7 +151,8 @@
         "url": "https://www.amazon.com/Head-First-Kotlin-Brain-Friendly-Guide/dp/1491996692"
       }
     ],
-    "coverImage": "/assets/covers/head-first-kotlin.jpg"
+    "coverImage": "/assets/covers/head-first-kotlin.jpg",
+    "bestFor": "Programming beginners who respond better to visuals, puzzles, and stories than to dry reference text."
   },
   {
     "slug": "programming-kotlin",
@@ -170,7 +176,8 @@
         "url": "https://pragprog.com/titles/vskotlin/programming-kotlin/"
       }
     ],
-    "coverImage": "/assets/covers/programming-kotlin.svg"
+    "coverImage": "/assets/covers/programming-kotlin.svg",
+    "bestFor": "Developers who want an opinionated, idiomatic-style guide with strong coverage of DSLs and functional constructs."
   },
   {
     "slug": "functional-programming-in-kotlin",
@@ -195,7 +202,8 @@
         "url": "https://www.manning.com/books/functional-programming-in-kotlin"
       }
     ],
-    "coverImage": "/assets/covers/functional-programming-in-kotlin.svg"
+    "coverImage": "/assets/covers/functional-programming-in-kotlin.svg",
+    "bestFor": "Developers who want to learn functional programming rigorously, not just Kotlin's functional-flavored syntax."
   },
   {
     "slug": "android-programming-with-kotlin-for-beginners",
@@ -218,7 +226,8 @@
         "url": "https://www.amazon.com/Android-Programming-Kotlin-Beginners-programming/dp/1789615402"
       }
     ],
-    "coverImage": "/assets/covers/android-programming-with-kotlin-for-beginners.jpg"
+    "coverImage": "/assets/covers/android-programming-with-kotlin-for-beginners.jpg",
+    "bestFor": "Absolute beginners whose specific goal is building an Android app, not learning Kotlin in the abstract."
   },
   {
     "slug": "kotlin-for-android-app-development",
@@ -241,7 +250,8 @@
         "url": "https://www.amazon.com/Kotlin-Android-Development-Developers-Library/dp/0134854195"
       }
     ],
-    "coverImage": "/assets/covers/kotlin-for-android-app-development.jpg"
+    "coverImage": "/assets/covers/kotlin-for-android-app-development.jpg",
+    "bestFor": "Developers who already know Android/Java and want to see the same patterns done idiomatically in Kotlin."
   },
   {
     "slug": "the-joy-of-kotlin",
@@ -264,7 +274,8 @@
         "url": "https://www.amazon.com/Joy-Kotlin-Pierre-Yves-Saumont/dp/1617295361"
       }
     ],
-    "coverImage": "/assets/covers/the-joy-of-kotlin.jpg"
+    "coverImage": "/assets/covers/the-joy-of-kotlin.jpg",
+    "bestFor": "Developers who've grasped functional programming basics and want a second, more applied take on writing Kotlin functionally."
   },
   {
     "slug": "kotlin-design-patterns-and-best-practices",
@@ -288,7 +299,8 @@
         "url": "https://www.amazon.com/Kotlin-Design-Patterns-Best-Practices/dp/1801815720"
       }
     ],
-    "coverImage": "/assets/covers/kotlin-design-patterns-and-best-practices.svg"
+    "coverImage": "/assets/covers/kotlin-design-patterns-and-best-practices.svg",
+    "bestFor": "Java/C# developers who think in Gang-of-Four patterns and want a direct Kotlin translation."
   },
   {
     "slug": "kotlin-cookbook",
@@ -313,7 +325,8 @@
         "url": "https://www.amazon.com/Kotlin-Cookbook-Problem-Focused-Ken-Kousen/dp/1492046671"
       }
     ],
-    "coverImage": "/assets/covers/kotlin-cookbook.svg"
+    "coverImage": "/assets/covers/kotlin-cookbook.svg",
+    "bestFor": "Working Kotlin developers who want a problem-focused reference to flip to, not a start-to-finish tutorial."
   },
   {
     "slug": "pro-spring-boot-3-with-kotlin",
@@ -337,6 +350,7 @@
         "url": "https://www.amazon.com/Spring-Boot-Kotlin-Depth-Microservices/dp/B0DJGGPMRT"
       }
     ],
-    "coverImage": "/assets/covers/pro-spring-boot-3-with-kotlin.svg"
+    "coverImage": "/assets/covers/pro-spring-boot-3-with-kotlin.svg",
+    "bestFor": "Backend engineers building cloud-native Spring Boot services who want Kotlin-first guidance instead of Java-first material with Kotlin bolted on."
   }
 ]

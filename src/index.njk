@@ -19,6 +19,7 @@ layout: base.njk
 				<h2>{{ book.title }}</h2>
 				<p class="book-meta">{{ book.authors | join(", ") }} &middot; {{ book.year }}</p>
 				<span class="badge badge-{{ book.level }}">{{ book.level }}</span>
+				<p class="best-for"><strong>Best for:</strong> {{ book.bestFor }}</p>
 				<p class="book-card-summary">{{ book.summary }}</p>
 			</div>
 		</a>
